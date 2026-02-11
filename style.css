@@ -143,20 +143,24 @@
     display: block !important;
   }
   .bg-foto {
-    background-image: url("Gemini_Generated_Image_58jcdc58jcdc58jc.png"); /* caminho da imagem */
+    background-image: url("img/Tecnologia.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
   }
   .bg-foto-capacita {
-    background-image: url("Gemini_Generated_Image_gdh4xygdh4xygdh4.png"); /* caminho da imagem */
+    background-image: url("img/Capacitacao.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
   }
   .bg-foto-participa {
-    background-image: url("Gemini_Generated_Image_mlw2bfmlw2bfmlw2.png"); /* caminho da imagem */
+    background-image: url("img/Participacao.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
   }
+  .text-justify {
+    text-align: justify;
+  }
+  
