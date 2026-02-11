@@ -5,18 +5,18 @@ A aplicação é uma página web estática, desenvolvida com HTML, CSS e JavaScr
 🧩 **Estrutura do Projeto**
 nivelamento/
 │
-├── index.html           # Página inicial
-├── login.html           # Tela de login
-├── tecnologia.html      # Conteúdo sobre acesso à tecnologia
-├── capacitacao.html     # Conteúdo sobre capacitação digital
-├── participacao.html    # Conteúdo sobre participação social
+├── index.html
+├── login.html
+├── tecnologia.html
+├── capacitacao.html
+├── participacao.html
 │
-├── auth.js              # Controle de autenticação (login e validação)
-├── script.js            # Scripts gerais do projeto
-├── style.css            # Estilos da aplicação
+├── auth.js
+├── script.js
+├── style.css
 │
-├── img/                 # Imagens utilizadas no site
-└── README.md            # Documentação do projeto
+├── img/
+└── README.md
 
 🔐 **Sistema de Autenticação**
 O projeto utiliza um sistema simples de autenticação em JavaScript, com as seguintes características:
