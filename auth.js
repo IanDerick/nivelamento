@@ -15,8 +15,7 @@
 })();
 function deslogar() {
     localStorage.removeItem("logado");
-    // ou: localStorage.setItem("logado", "false");
-
+    
     alert("Você saiu da sua conta.");
     window.location.href = "index.html";
 }
