@@ -2,22 +2,6 @@
 Este projeto foi desenvolvido como parte de um trabalho de nivelamento, com o objetivo desenvolver um site dinâmico e responsivo utilizando HTML5, CSS3 e JavaScript, seguindo as regras de negócio previamente estabelecidas.
 A aplicação é uma página web estática, desenvolvida com HTML, CSS e JavaScript, contendo um sistema simples de autenticação para controle de acesso às páginas internas.
 
-🧩 **Estrutura do Projeto**
-nivelamento/
-│
-├── index.html
-├── login.html
-├── tecnologia.html
-├── capacitacao.html
-├── participacao.html
-│
-├── auth.js
-├── script.js
-├── style.css
-│
-├── img/
-└── README.md
-
 🔐 **Sistema de Autenticação**
 O projeto utiliza um sistema simples de autenticação em JavaScript, com as seguintes características:
 Login baseado em variáveis locais
