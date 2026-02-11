@@ -60,9 +60,12 @@ function entrar(event) {
 
     if (email === emailRegistrado && senha === senhaRegistrada) {
         alert("Login realizado com sucesso!");
+
+        // salva login
+        localStorage.setItem("logado", "true");
+
         window.location.href = "index.html";
     } else {
         alert("Email ou senha inválidos!");
     }
 }
-
